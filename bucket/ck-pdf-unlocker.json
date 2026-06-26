@@ -18,12 +18,6 @@
             "Start-Sleep -Seconds 3"
         ]
     },
-    "shortcuts": [
-        [
-            "$env:LOCALAPPDATA\\CK PDF Unlocker\\ck-pdf-unlocker.exe",
-            "CK PDF Unlocker"
-        ]
-    ],
     "checkver": {
         "github": "https://github.com/epatels/ck-pdf-unlocker"
     },
