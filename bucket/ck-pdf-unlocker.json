@@ -1,10 +1,10 @@
 {
-    "version": "8.3.0",
+    "version": "8.4.0",
     "description": "Remove passwords and copy/print restrictions from PDF files",
     "homepage": "https://github.com/epatels/ck-pdf-unlocker",
     "license": "Freeware",
-    "url": "https://github.com/epatels/ck-pdf-unlocker/releases/download/v8.3.0/ck-pdf-unlocker-setup-x64.exe",
-    "hash": "5142983eb30d4a7bbef696ae818fbeb81c6fc3a57f81878bb7f3b9d8a69d5c32",
+    "url": "https://github.com/epatels/ck-pdf-unlocker/releases/download/v8.4.0/ck-pdf-unlocker-setup-x64.exe",
+    "hash": "90fddf686630f98334ea3c41cee18f392602823f648afc1f8908b77b55b8ec24",
     "installer": {
         "script": [
             "$proc = Start-Process \"$dir\\ck-pdf-unlocker-setup-x64.exe\" -ArgumentList '/S' -PassThru",
